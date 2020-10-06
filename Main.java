@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- *
+ * creates a multiplication table for the integer the user inputs
  * @author Cole Girling
  */
 public class Main {
